@@ -10,6 +10,7 @@ Utilize topic modeling to group themes of the SOTU addresses in your analysis. Y
 ## Reference Materials
 
 ## Data
+The provided dataset is text data in csv format. There are 219 rows for each speech, and 4 columns (President, Year, Number Address, and List of sentences conttaining the speech).
 
 ## References
 [1]
