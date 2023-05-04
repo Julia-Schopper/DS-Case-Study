@@ -6,3 +6,11 @@ The President of the United States is approaching their State of the Union (SOTU
 
 ## Deliverable 
 Utilize topic modeling to group themes of the SOTU addresses in your analysis. You can analyze the text data, group words into themes, and examine how frequently those themes are referenced to determine their importance. Use the provided data and Latent Dirichlet Allocation tutorial to achieve 
+
+## Reference Materials
+
+## Data
+
+## References
+[1]
+[2]
